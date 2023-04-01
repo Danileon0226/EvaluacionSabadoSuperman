@@ -28,11 +28,6 @@ CSS: Se utilizará CSS para diseñar la apariencia visual del sitio web.
 
 JavaScript: Se utilizará JavaScript para agregar interactividad al sitio web.
 
-WordPress: El sitio web se construirá en la plataforma WordPress para facilitar la gestión del contenido.
-
-Equipo
-El equipo que trabajará en este proyecto incluirá desarrolladores web, diseñadores gráficos, redactores de contenido y expertos en SEO. Todos trabajarán juntos para crear un sitio web informativo y entretenido sobre Superman y su universo.
-
 Conclusiones
 Este proyecto será una gran oportunidad para crear una comunidad en línea de fans de Superman y proporcionar contenido fresco y emocionante sobre este personaje icónico. Con la ayuda de nuestro equipo, esperamos hacer de este sitio web uno de los mejores recursos para todo lo relacionado con Superman y su universo.
  
