@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alkatra&display=swap" rel="stylesheet">
+<head>
+	<title>Formulario de inicio de sesión</title>
+<style>
+		body {
+			background-color: #f2f2f2;
+			background-image: url("https://firebasestorage.googleapis.com/v0/b/tiendasabadocdvb.appspot.com/o/pxfuel.jpg?alt=media&token=562af843-519f-4ea5-8d1e-59a564481aff");
+			background-size: cover;
+		}
+
+		.login-form {
+			margin: auto;
+			width: 25%;
+			padding: 20px;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			background-color: #fff;
+			box-shadow: 0px 0px 10px #ccc;
+			position: absolute;
+  			top: 50%;
+  			left: 50%;
+ 		    transform: translate(-50%, -50%);
+		}
+
+		.login-form label {
+			display: block;	
+			margin-bottom: 10px;
+			font-weight: bold;
+			color: #666;
+		}
+
+		.login-form input[type="text"],
+		.login-form input[type="password"] {
+			padding: 10px;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			margin-bottom: 20px;
+			width: 100%;
+			box-sizing: border-box;
+			font-size: 16px;
+			color: #666;
+		}
+
+		.login-form input[type="submit"] {
+			background-color: #4CAF50;
+			color: #fff;
+			border: none;
+			padding: 10px 20px;
+			border-radius: 5px;
+			font-size: 16px;
+			cursor: pointer;
+			margin-bottom: 10px;
+		}
+
+		.login-form input[type="submit"]:hover {
+			background-color: #3e8e41;
+		}
+		.titulo{
+			font-family: 'Alkatra', cursive;
+		}
+	</style>
+</head>
+<body>
+	<form class="login-form">
+        <label class="titulo" for="username">Nombre de usuario:</label>
+		<input type="text" id="username" name="username"><br>
+
+		<label class="titulo" for="password">Contraseña:</label>
+		<input type="password" id="password" name="password"><br>
+
+		<div>
+			<button>
+				<a href="index.html">Iniciar Sesion</a>
+			</button>
+		</div>
+
+        
+    </form>
+</body>
+</html>
